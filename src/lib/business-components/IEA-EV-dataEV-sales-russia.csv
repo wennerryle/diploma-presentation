@@ -1,0 +1,71 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Russia,Historical,EV sales share,Cars,EV,2011,percent,0.001500000013038516
+Russia,Historical,EV sales,Cars,BEV,2011,Vehicles,41
+Russia,Historical,EV sales,Cars,BEV,2012,Vehicles,49
+Russia,Historical,EV stock,Cars,BEV,2012,Vehicles,90
+Russia,Historical,EV sales share,Cars,EV,2012,percent,0.0017000000225380063
+Russia,Historical,EV stock share,Cars,EV,2012,percent,0.0002099999983329326
+Russia,Historical,EV stock share,Cars,EV,2013,percent,0.0002099999983329326
+Russia,Historical,EV stock,Cars,BEV,2013,Vehicles,90
+Russia,Historical,EV stock,Cars,BEV,2014,Vehicles,90
+Russia,Historical,EV stock share,Cars,EV,2014,percent,0.00019999999494757503
+Russia,Historical,EV stock share,Cars,EV,2015,percent,0.0005699999746866524
+Russia,Historical,EV sales share,Cars,EV,2015,percent,0.009999999776482582
+Russia,Historical,EV stock,Cars,PHEV,2015,Vehicles,55
+Russia,Historical,EV stock,Cars,BEV,2015,Vehicles,200
+Russia,Historical,EV sales,Cars,PHEV,2015,Vehicles,55
+Russia,Historical,EV sales,Cars,BEV,2015,Vehicles,110
+Russia,Historical,EV sales,Cars,BEV,2016,Vehicles,350
+Russia,Historical,EV sales,Cars,PHEV,2016,Vehicles,22
+Russia,Historical,EV stock,Cars,BEV,2016,Vehicles,550
+Russia,Historical,EV stock,Cars,PHEV,2016,Vehicles,77
+Russia,Historical,EV sales share,Cars,EV,2016,percent,0.026000000536441803
+Russia,Historical,EV stock share,Cars,EV,2016,percent,0.00139999995008111
+Russia,Historical,EV stock share,Cars,EV,2017,percent,0.0017000000225380063
+Russia,Historical,EV sales share,Cars,EV,2017,percent,0.00930000003427267
+Russia,Historical,EV stock,Cars,PHEV,2017,Vehicles,110
+Russia,Historical,EV stock,Cars,BEV,2017,Vehicles,660
+Russia,Historical,EV sales,Cars,PHEV,2017,Vehicles,32
+Russia,Historical,EV sales,Cars,BEV,2017,Vehicles,110
+Russia,Historical,EV sales,Cars,BEV,2018,Vehicles,140
+Russia,Historical,EV sales,Cars,PHEV,2018,Vehicles,1000
+Russia,Historical,EV stock,Cars,BEV,2018,Vehicles,800
+Russia,Historical,EV stock,Cars,PHEV,2018,Vehicles,1100
+Russia,Historical,EV sales share,Cars,EV,2018,percent,0.06700000166893005
+Russia,Historical,EV stock share,Cars,EV,2018,percent,0.00430000014603138
+Russia,Historical,EV stock share,Cars,EV,2019,percent,0.007000000216066837
+Russia,Historical,EV sales share,Cars,EV,2019,percent,0.0729999989271164
+Russia,Historical,EV stock,Cars,PHEV,2019,Vehicles,2000
+Russia,Historical,EV stock,Cars,BEV,2019,Vehicles,1100
+Russia,Historical,EV sales,Cars,PHEV,2019,Vehicles,900
+Russia,Historical,EV sales,Cars,BEV,2019,Vehicles,350
+Russia,Historical,EV sales,Cars,BEV,2020,Vehicles,780
+Russia,Historical,EV sales,Cars,PHEV,2020,Vehicles,710
+Russia,Historical,EV stock,Cars,BEV,2020,Vehicles,1900
+Russia,Historical,EV stock,Cars,PHEV,2020,Vehicles,2700
+Russia,Historical,EV sales share,Cars,EV,2020,percent,0.10000000149011612
+Russia,Historical,EV stock share,Cars,EV,2020,percent,0.009999999776482582
+Russia,Historical,EV stock share,Cars,EV,2021,percent,0.014999999664723873
+Russia,Historical,EV sales share,Cars,EV,2021,percent,0.12999999523162842
+Russia,Historical,EV stock,Cars,PHEV,2021,Vehicles,3500
+Russia,Historical,EV stock,Cars,BEV,2021,Vehicles,3200
+Russia,Historical,EV sales,Cars,PHEV,2021,Vehicles,740
+Russia,Historical,EV sales,Cars,BEV,2021,Vehicles,1300
+Russia,Historical,EV sales,Cars,PHEV,2022,Vehicles,37
+Russia,Historical,EV stock,Cars,BEV,2022,Vehicles,3900
+Russia,Historical,EV sales,Cars,BEV,2022,Vehicles,760
+Russia,Historical,EV stock,Cars,PHEV,2022,Vehicles,3500
+Russia,Historical,EV sales share,Cars,EV,2022,percent,0.12999999523162842
+Russia,Historical,EV stock share,Cars,EV,2022,percent,0.017000000923871994
+Russia,Historical,EV stock share,Cars,EV,2023,percent,0.02199999988079071
+Russia,Historical,EV sales share,Cars,EV,2023,percent,0.2199999988079071
+Russia,Historical,EV stock,Cars,PHEV,2023,Vehicles,4000
+Russia,Historical,EV sales,Cars,BEV,2023,Vehicles,1900
+Russia,Historical,EV stock,Cars,BEV,2023,Vehicles,5900
+Russia,Historical,EV sales,Cars,PHEV,2023,Vehicles,460
+Russia,Historical,EV sales,Cars,PHEV,2024,Vehicles,28000
+Russia,Historical,EV stock,Cars,BEV,2024,Vehicles,10000
+Russia,Historical,EV sales,Cars,BEV,2024,Vehicles,4600
+Russia,Historical,EV stock,Cars,PHEV,2024,Vehicles,32000
+Russia,Historical,EV sales share,Cars,EV,2024,percent,2.9000000953674316
+Russia,Historical,EV stock share,Cars,EV,2024,percent,0.09600000083446503
