@@ -26,7 +26,7 @@
 
 {#snippet illustration(src: string, description: string)}
 	<div class="flex flex-col gap-y-2 text-2xl">
-		<img class="w-full" {src} alt={description} />
+		<img class="w-full object-cover h-full max-h-[calc(100vh-400px)]" {src} alt={description} />
 		<p>{description}</p>
 	</div>
 {/snippet}
@@ -46,7 +46,7 @@
 			{/each}
 		</ul>
 		<Transition>
-			<div class="flex max-w-full justify-stretch gap-x-10">
+			<div class="flex justify-around gap-x-10">
 				{@render illustration(KanbanPic, 'Элементы Kanban')}
 				{@render illustration(GitGraphPic, 'Элементы Git-Flow')}
 			</div>
